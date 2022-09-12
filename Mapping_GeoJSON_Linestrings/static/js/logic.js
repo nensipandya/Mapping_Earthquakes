@@ -76,7 +76,7 @@ let myStyle = {
   }
   
 // Grabbing our GeoJSON data.
-d3.json(torontoHoods).then(function(data) {
+d3.json(torontoData).then(function(data) {
     L.geoJson(data,{
       style : myStyle,
       onEachFeature : function(feature,layer) {
