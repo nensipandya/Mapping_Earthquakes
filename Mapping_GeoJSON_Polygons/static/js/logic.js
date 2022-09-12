@@ -91,4 +91,4 @@ d3.json(torontoHoods).then(function(data) {
     }
     }).addTo(map);
     });
-Footer
+
