@@ -30,6 +30,17 @@ The below image shows map keys based on magnitude.
 The below image represents Tectonic Plate Data .
 
 
+![Tectonic Plate  ](https://user-images.githubusercontent.com/107137215/190293075-111e55b4-00b9-4af0-8e0c-a932cadedab1.jpg)
+
+The below image represents Major Earthquake Data.
+
+![Major Earthquake](https://user-images.githubusercontent.com/107137215/190293199-3c0ed7c8-5f89-4f4a-87fb-b35e52721e16.jpg)
+
+The below image represents Rubric data by third map.
+
+![Rubric layer](https://user-images.githubusercontent.com/107137215/190293457-b107be9f-ca44-4ee0-8439-85084a1cabb6.jpg)
+
+
 
 
 
