@@ -29,3 +29,10 @@ The below image shows map keys based on magnitude.
 
 The below image represents Tectonic Plate Data .
 
+
+
+
+
+
+
+
